@@ -8,13 +8,17 @@
 * I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/)
 * I'm an independent software engineer based in Leuven, Belgium
 
+---
+
 ### What am I up to now
 
 * I am fascinated by the society-changing potential of the blockchain technologies!
-Together with [jpmonettas](https://github.com/jpmonettas) we maintain [Spread](https://github.com/fbielejec/spread), software that visualizes how pathogens and viruses (yes, the ones like COVID-19) spread in time and space.
+* Together with [jpmonettas](https://github.com/jpmonettas) we maintain [Spread](https://github.com/fbielejec/spread), software that visualizes how pathogens and viruses (yes, the ones like COVID-19) spread in time and space.
 * I have have a keen interest in functional programming, especially using Clojure and Rust.
-* I like all things outdoor - from climbing, cycling, skiing to simply hiking.
 * I often write on my [my blog](https://www.blog.nodrama.io/) about different computing topics.
+* I like all things outdoor - from climbing, cycling, skiing to simply hiking.
+
+---
 
 ### Some of my work you might find interesting
 
