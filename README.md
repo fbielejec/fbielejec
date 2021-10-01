@@ -7,6 +7,10 @@
 * I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/)
 * I'm an independent software engineer based in Leuven, Belgium
 
+<br><br>
+
+*... I felt to a barrel of nuclear waste gaining superhuman coding abilities!*
+
 ---
 
 ### What am I up to now
