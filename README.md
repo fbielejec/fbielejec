@@ -13,7 +13,7 @@
 
 ---
 
-### What am I up to now
+### What am I up to now (aka clickbait!)
 
 * I am fascinated by the society-changing potential of the blockchain technologies!
 * Together with [jpmonettas](https://github.com/jpmonettas) we maintain [Spread](https://github.com/fbielejec/spread), software that visualizes how pathogens and viruses (yes, the ones like COVID-19) spread in time and space.
