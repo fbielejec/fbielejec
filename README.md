@@ -1,12 +1,11 @@
-<h2> Hi, I'm Filip!
+<h2> Hi, I'm Filip!</h2>
 <!-- <img src="" width="50"> -->
-</h2>
 
 <!-- <img align='right' src="https://www.visitleuven.be/sites/visitleuven.be/files/styles/is_medium/public/images/2021-10/430x310_grotemarkt_sintpieterskerk.png" width="230"> -->
 
 <ul>
   <li>I studied Applied Mathematics at the [Technical University of Lodz](https://p.lodz.pl/en)</li>
-  <li>I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ&hl=en&oi=sra) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/)</li>
+  <li>I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/)</li>
   <li>I'm an independent software engineer based in Leuven, Belgium</li>
 </ul>
 
