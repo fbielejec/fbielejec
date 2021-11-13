@@ -30,8 +30,8 @@
 ### Some of my work you might find interesting
 
 * [Spread](https://github.com/fbielejec/spread)
-* [My Emacs config](https://github.com/fbielejec/emacs.d)
 * [My PhD thesis](https://github.com/fbielejec/phd-thesis)
+* [My Emacs config](https://github.com/fbielejec/emacs.d)
 * [How I setup my computer](https://github.com/fbielejec/setup-desktop)
 * [Eye tracker written in Rust and OpenCV](https://github.com/fbielejec/rust-opencv/blob/master/src/eye_tracker.rs)
 * [Simple recommendations model using Rust and Tensorflow](https://github.com/fbielejec/rust-tensorflow)
