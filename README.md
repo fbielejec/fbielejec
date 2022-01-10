@@ -22,7 +22,7 @@
 * :link: I am fascinated by the society-changing potential of the distributed ledger technologies!
 * :waffle: Together with [jpmonettas](https://github.com/jpmonettas) we maintain [Spread](https://github.com/fbielejec/spread), software that visualizes how pathogens and viruses (yes, the ones like COVID-19) spread in time and space.
 * :crab: I have have a keen interest in functional programming, especially using **()** Clojure and Rust.
-* :memo: I often write on my [my blog](https://www.blog.nodrama.io/) about different computing topics.
+* :memo: I often write about different computing topics. <!-- on my [my blog](https://www.blog.nodrama.io/) about different computing topics.-->
 * :climbing_man: I like all things outdoor - climbing, :mountain_biking_man: MTB, :skier: skiing.
 
 ---
