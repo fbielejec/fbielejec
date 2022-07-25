@@ -21,4 +21,4 @@ jobs:
           plugin_languages_colors: rainbow
           plugin_languages_limit: 7
           plugin_languages_ignored: >-
-            javascript, tex, css, html
+            javascript, tex, css, html, scss
