@@ -13,6 +13,8 @@
 
 <br><br>
 
+![Metrics](/github-metrics.svg)
+
 :radioactive: *... I felt to a barrel of nuclear waste gaining superhuman coding abilities!* :radioactive:
 
 ---
