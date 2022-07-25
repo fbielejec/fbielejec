@@ -2,19 +2,19 @@
 
 <img align='right' src="/visit_lodz.png" width="350">
 
-* :man_student: I studied Applied Mathematics at the [Technical University of Lodz](https://p.lodz.pl/en)
-* :man_scientist: I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/)
-* :man_technologist: I'm an independent software engineer from Lodz, Poland
+* :man_student: I studied Applied Mathematics at the [Technical University of Lodz](https://p.lodz.pl/en).
+* :man_scientist: I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/).
+* :man_technologist: I'm an independent software engineer from Lodz, Poland.
 
 <br><br>
 
-<img width="720" align="center" src="/github-metrics.svg">
+<img width="700" align="center" src="/github-metrics.svg" alt="Metrics">
 
 :radioactive: *... I felt to a barrel of nuclear waste gaining superhuman coding abilities!* :radioactive:
 
 ---
 
-### What am I up to now (aka clickbait!)
+### What am I up to now (aka clickbait)
 
 * :link: I am fascinated by the society-changing potential of the distributed ledger technologies.
 * :waffle: Together with [jpmonettas](https://github.com/jpmonettas) we maintain [Spread](https://github.com/fbielejec/spread), software that visualizes how pathogens and viruses (yes, the ones like COVID-19) spread in time and space.
