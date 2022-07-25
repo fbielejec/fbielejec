@@ -13,7 +13,8 @@
 
 <br><br>
 
-![Metrics](/github-metrics.svg)
+<!-- ![Metrics](/github-metrics.svg) -->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 :radioactive: *... I felt to a barrel of nuclear waste gaining superhuman coding abilities!* :radioactive:
 
