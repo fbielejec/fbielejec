@@ -1,7 +1,7 @@
 <h2> Hi, I'm Filip!</h2>
 <!-- <img src="" width="50"> -->
 
-<img align='right' src="/visit_lodz.png" width="320">
+<img align='right' src="/visit_lodz.png" width="350">
 
 * :man_student: I studied Applied Mathematics at the [Technical University of Lodz](https://p.lodz.pl/en)
 * :man_scientist: I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/)
