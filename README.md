@@ -1,11 +1,7 @@
 <h2> Hi, I'm Filip!</h2>
 <!-- <img src="" width="50"> -->
 
-<!-- <img align='right' src="https://www.visitleuven.be/sites/visitleuven.be/files/styles/is_medium/public/images/2021-10/430x310_grotemarkt_sintpieterskerk.png" width="230"> -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fbielejec&show_icons=true&theme=dark&count_private=true" />
-</a>
+<img align='right' src="/visit_lodz.png" width="720">
 
 * :man_student: I studied Applied Mathematics at the [Technical University of Lodz](https://p.lodz.pl/en)
 * :man_scientist: I obtained a PhD in Bioinformatics under the supervision of Professor [Philippe Lemey](https://scholar.google.com/citations?user=HwjuEaUAAAAJ) at the laboratory of [Evolutionary and Computational Virology](https://rega.kuleuven.be/cev/ecv/)
@@ -13,8 +9,7 @@
 
 <br><br>
 
-<!-- ![Metrics](/github-metrics.svg) -->
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img width="100%" src="/github-metrics.svg">
 
 :radioactive: *... I felt to a barrel of nuclear waste gaining superhuman coding abilities!* :radioactive:
 
